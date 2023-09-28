@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn 
+flask 
+
+#-e .
+
+to install the package 
+```
+sudo python setup.py install
+```
